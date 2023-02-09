@@ -9,7 +9,7 @@ window.onload = () => {
   let pageCount = 1;
   let totalHits = 0;
   let searchQuery = '';
-
+//test
   document.querySelector('.search-fieldset').toggleAttribute('disabled');
   const searchForm = document.querySelector('#search-form');
   const galleryContainer = document.querySelector('.gallery');
